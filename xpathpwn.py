@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 XPathPwn - Advanced XPath Injection Exploitation Tool
-Author: skypoc (https://github.com/skypoc)
-Version: 2.0.2025
+Author: Skyfox (https://github.com/skyfox-arch)
+Version: 2.0.2024
 License: MIT
 """
 
@@ -166,7 +166,7 @@ class XPathPwn:
  \ \/ /  _ \ __ _| |_| |__ |  _ \__      ___ __  
   \  /| |_) / _` | __| '_ \| |_) \ \ /\ / / '_ \ 
   /  \|  __/ (_| | |_| | | |  __/ \ V  V /| | | |
- /_/\_\_|   \__,_|\__|_| |_|_|     \_/\_/ |_| |_| v2.0.2024
+ /_/\_\_|   \__,_|\__|_| |_|_|     \_/\_/ |_| |_| v2.0.2025
                                                   
 {Colors.RESET}Advanced XPath Injection Exploitation Tool
 Developed by: {Colors.INFO}https://github.com/skyfox-arch{Colors.RESET}
